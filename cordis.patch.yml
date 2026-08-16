@@ -1,0 +1,4 @@
+# dsh-whale-avatar bundle: 向组合挂一个 Node half（空 apply，行为全在 client）
+- insert:
+    - id: dsh-whale-avatar
+      name: 'dsh-whale-avatar'
